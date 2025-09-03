@@ -1,7 +1,8 @@
 name: "Hello Action"
-description: "Uma git action simples para treinar"
-author: "jones amaro"
+description: "A simple Docker-based GitHub Action"
+author: "joaomvacritical"
+
 runs:
-  using:"docker"
-  image: "Dockerfile"	
+  using: "docker"
+  image: "Dockerfile"
 
