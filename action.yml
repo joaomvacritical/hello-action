@@ -1,0 +1,7 @@
+name: "Hello Action"
+description: "Uma git action simples para treinar"
+author: "jones amaro"
+runs:
+  using:"docker"
+  image: "Dockerfile"	
+
